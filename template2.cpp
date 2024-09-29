@@ -164,8 +164,7 @@ void faltu( T arg, const hello &... rest) {
 int main()
 {
     grumpyonion();
-    
-    
+       
 
 return 0;
 }
